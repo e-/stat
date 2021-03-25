@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "bin": {
-    "stat": "./stat.js"
+    "stat": "./main.js"
   },
   "author": "",
   "license": "ISC",
